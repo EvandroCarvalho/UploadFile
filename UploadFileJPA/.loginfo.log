@@ -1,0 +1,4 @@
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 7
+[http-nio-8080-exec-3] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 6
+[http-nio-8080-exec-1] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 6
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 10

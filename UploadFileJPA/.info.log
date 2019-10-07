@@ -1,0 +1,11 @@
+[http-nio-8080-exec-1] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 8
+[http-nio-8080-exec-1] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Save file: 
+File name: certidão_casamento.jpg
+File type: image/jpeg
+[http-nio-8080-exec-5] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Save file: 
+File name: certidão_casamento.jpg
+File type: image/jpeg
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Save file: 
+File name: certidão_casamento.jpg
+File type: image/jpeg
+[http-nio-8080-exec-1] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 7

@@ -1,0 +1,28 @@
+[main] DEBUG br.com.UploadFIle.Controllers.Log4jPropertiesConfigurationExample  - Log4j appender configuration is successful !!
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - save file
+[http-nio-8080-exec-6] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - save file: File namerg_cpf.pdf File type: application/pdf
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - save file: 
+File name: certidão_casamento.jpg
+File type: image/jpeg
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 8
+[http-nio-8080-exec-1] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 8
+[http-nio-8080-exec-3] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 8
+[http-nio-8080-exec-4] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 7
+[http-nio-8080-exec-1] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 7
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 7
+[http-nio-8080-exec-3] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 6
+[http-nio-8080-exec-1] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 6
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 10
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 10
+[http-nio-8080-exec-4] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 11
+[http-nio-8080-exec-4] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 11
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 11
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 11
+[http-nio-8080-exec-3] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 11
+[http-nio-8080-exec-1] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 11
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 1
+[http-nio-8080-exec-4] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 9
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 9
+[http-nio-8080-exec-2] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 9
+[http-nio-8080-exec-3] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 90
+[http-nio-8080-exec-1] INFO  br.com.UploadFIle.DBFileStorageService.DBFileStorageService  - Search file in data base: 90
